@@ -8,6 +8,7 @@ The page uses:
 - [Npm](https://www.npmjs.com/)
 - [Express](https://expressjs.com/)
 - [cors](https://www.npmjs.com/package/cors)
+-[body-parser](https://www.npmjs.com/package/body-parser)
 
 # Reproduction
 To run this code, go to [www.gitpod.io](https://gitpod.io/), make an account, then follow these instructions:
